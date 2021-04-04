@@ -28,5 +28,9 @@ On `Line 131` Comment out `Shootmail()` on first try and see the detection and p
 
 Wanted to divide Bigger frame into 3*3 smaller farmes and wanted to test each seperately
 
+## Screenshots
+
+Email:
+![alt text](https://raw.githubusercontent.com/itsashishupadhyay/Intruder-Alert-System/main/img1.png "Email")
 
 
