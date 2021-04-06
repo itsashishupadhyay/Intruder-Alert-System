@@ -1,7 +1,8 @@
 # Project Aim
 We do leave our house complete un-attended for better half of our day, and In case of Theft, it would be good to have Time and Probably the Face capture of the Intruder.
 This simple Script Uses Open CV and Pre-trained Tenserflow model to detect Object in the frame, If that is a "HUMAN" trigger a maling Script, to warn with attached image capture.
-End goal would be to Run this script over a Raspberry Pi, but i dont have a camera module, if you do have please verify that for me
+
+End goal would be to Run this script over a Raspberry Pi, but i dont have a camera module, if you do have one, please verify that for me
 redirect your questions at ashishupadhyay93@gmail.com
 
 I choose [MobileNet-SSD v3](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API)
