@@ -11,9 +11,9 @@ I choose [MobileNet-SSD v3](https://github.com/opencv/opencv/wiki/TensorFlow-Obj
 1. Install the required Package
 `$ pip install -r requirements.txt`
 
-2. Go to [MobileNet-SSD v3](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API) and download the Weights and Config files, They required if you want to update the model
+2. Go to [MobileNet-SSD v3](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API) and download the Weights and Config files, ( They are required if you want to use a different model)
 
-3. ``Already done`` Make a Lable.txt containing all the labes, the above model has 80 lables
+3. ``Already done and Model Specific`` Make a Lable.txt containing all the labes, the above model has 80 lables
 
 4. Setup an Email API, i used `sendgrid` if you decide to use the same, follow their documentation and update the parameters
 
